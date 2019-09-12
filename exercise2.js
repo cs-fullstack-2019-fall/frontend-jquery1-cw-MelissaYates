@@ -10,4 +10,3 @@ else{
     $("#block").hide();
     setTimeout(function() { $("#block").show(); }, 2000);
 }
-/
