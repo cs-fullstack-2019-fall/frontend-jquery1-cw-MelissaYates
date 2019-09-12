@@ -1,0 +1,15 @@
+.redText{
+    color: red;
+}
+
+#myElement{
+    color: blue;
+}
+#first{
+    background-color: green;
+    color: white;
+}
+#second{
+    background-color: orange;
+    color: pink;
+}
